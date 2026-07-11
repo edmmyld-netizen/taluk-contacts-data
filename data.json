@@ -1,0 +1,14 @@
+{
+  "vao": [
+    { "name": "Sample VAO", "designation": "VAO", "mobile": "9876543210", "taluk": "Kuthalam", "area": "Sample Village" }
+  ],
+  "ri": [
+    { "name": "Sample RI", "designation": "RI", "mobile": "9876543211", "taluk": "Sirkazhi", "area": "Sample Firka" }
+  ],
+  "zdt": [
+    { "name": "Sample ZDT", "designation": "ZDT", "mobile": "9876543212", "taluk": "Mayiladuthurai", "area": "" }
+  ],
+  "tahsildar": [
+    { "name": "Sample Tahsildar", "designation": "Tahsildar", "mobile": "9876543213", "taluk": "Tharangambadi", "area": "" }
+  ]
+}
